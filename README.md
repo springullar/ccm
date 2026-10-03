@@ -1,2 +1,3 @@
 # ccm
-warsedtfyghjl
+installs at Releases
+requires login
